@@ -1,4 +1,4 @@
-# Profiling-Hate-Speech-Spreaders-on-Twitter
+# Profiling Hate Speech Spreaders on Twitter
 
 This repository contains the code of the study "Profiling Hate Speech Spreaders on Twitter". The following files/folders can be found:
 
